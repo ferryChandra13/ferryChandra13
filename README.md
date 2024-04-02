@@ -3,7 +3,7 @@ ferryChandra13/ferryChandra13 is a ✨ special ✨ repository because its `READM
 You can click the Preview link to take a look at your changes.
 --->
 <h2> Hi, I'm Ferry Chandra! ✌️</h2>
-<img align='right' src="/workspaces/ferryChandra13/developer.gif" width="230" style="border-radius: 5%;">
+<img align='right' src="https://github.com/ferryChandra13/ferryChandra13/blob/main/young%20coder.jpg" width="350" style="border-radius: 5%;">
 <p><em>Data Engineer at <a href="https://temus.com/">Temus</a>
 </em>🏢</p>
 
@@ -19,7 +19,7 @@ ferry = {
     "pronouns": ["he", "him"],
     "code": ["HTML", "CSS", "Python"],
     "learning": ["Elixir", "Phoenix"]
-    "tools/frameworks": ["Docker", "Apache Airflow", "Django", "fast-api"],
+    "tools_or_frameworks": ["Docker", "Apache Airflow", "Django", "fast_api"],
     "hobbies": ["Badminton", "Running", "Gaming"],
 }
 ```
