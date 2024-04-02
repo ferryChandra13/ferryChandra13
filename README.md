@@ -18,7 +18,7 @@ You can click the Preview link to take a look at your changes.
 ferry = {
     "pronouns": ["he", "him"],
     "code": ["HTML", "CSS", "Python"],
-    "learning": ["Elixir", "Phoenix"]
+    "learning": ["Elixir", "Phoenix"],
     "tools_or_frameworks": ["Docker", "Apache Airflow", "Django", "fast_api"],
     "hobbies": ["Badminton", "Running", "Gaming"],
 }
