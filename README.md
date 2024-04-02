@@ -24,6 +24,6 @@ ferry = {
 }
 ```
 
-<em><b>I would like to meet different people around the internet</b> so do feel free to reach out, [email](mailto:bigbangds13@gmail.com) </em> ^_^
+<em><b>Would love to know more cool people around</b> so do feel free to reach out, [email](mailto:bigbangds13@gmail.com) </em> ^_^
 
 ---
